@@ -1,0 +1,2 @@
+module Hemplate.Error where
+
